@@ -29,5 +29,13 @@
             "language": "en",
             "bundleURL": "https://3seventeen.github.io/ficnest-sources/bundles/en.novelbin-v1.0.0.zip"
         }
+        ,
+        {
+            "id": "en.webnovel",
+            "name": "Webnovel",
+            "version": "1.0.0",
+            "language": "en",
+            "bundleURL": "https://3seventeen.github.io/ficnest-sources/bundles/en.webnovel-v1.0.0.zip"
+        }
     ]
 }
